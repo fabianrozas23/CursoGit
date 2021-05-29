@@ -3,5 +3,6 @@ Esta es la historia de Fabián Rozas
 Fabián Rozas tiene 24 años y nació en Chile
 
 Probando cambios desde nueva cuenta git
+Probando cambiando datos globales
 
 Hoy hablaremos de su vida y obra maestra.
